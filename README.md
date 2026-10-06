@@ -3,13 +3,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:0891b2&height=230&section=header&text=Lokesh%20Jena&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Developer%20•%20React%20Native%20•%20APIs%20•%20UI/UX&descSize=18&descAlignY=58" width="100%" alt="Lokesh Jena banner" />
 
-<h2>Hi 👋, I'm Lokesh!</h2>
+<h2>👋 Welcome to My Digital Workspace</h2>
 
-<h3>Building fast, clean &amp; responsive UIs</h3>
+<h3><i>404: Boring Interfaces Not Found 🚀</i></h3>
 
-<p><b>React &nbsp;|&nbsp; Next.js &nbsp;|&nbsp; React Native</b></p>
+<p>Building fast, modern &amp; responsive experiences that users enjoy.</p>
 
-<p><i>404: Serious Developer Not Found 🚀</i></p>
+<p><b>React &nbsp;|&nbsp; Next.js &nbsp;|&nbsp; React Native &nbsp;|&nbsp; APIs &nbsp;|&nbsp; UI/UX</b></p>
+
+
 
 <br/>
 
