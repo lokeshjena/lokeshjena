@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:0891b2&height=230&section=header&text=Frontend%20Developer&fontSize=55&fontColor=ffffff&fontAlignY=36&desc=React%20%E2%80%A2%20Next.js%20%E2%80%A2%20React%20Native%20%E2%80%A2%20APIs%20%E2%80%A2%20UI%2FUX&descSize=17&descAlignY=58" width="100%" alt="Frontend Developer Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,100:155E75&height=230&section=header&text=Frontend%20Developer&fontSize=55&fontColor=ffffff&fontAlignY=36&desc=React%20%E2%80%A2%20Next.js%20%E2%80%A2%20React%20Native%20%E2%80%A2%20APIs%20%E2%80%A2%20UI%2FUX&descSize=17&descAlignY=58" width="100%" alt="Frontend Developer Banner" />
 
 <h2>👋 Welcome to My Digital Workspace</h2>
 
