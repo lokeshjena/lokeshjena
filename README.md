@@ -1,11 +1,7 @@
 <!-- ═══════════════ HEADER BANNER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7c3aed&height=230&section=header&text=Lokesh%20Jena&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Developer%20•%20React%20Native%20•%20APIs%20•%20UI/UX&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Lokesh Jena banner" />
-
-<a href="https://github.com/lokeshjena">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=0E75B6&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Lokesh!;Building+fast%2C+clean+%26+responsive+UIs;React+%7C+Next.js+%7C+React+Native;404%3A+Serious+Developer+Not+Found+%F0%9F%9A%80" alt="Typing animation" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:0891b2&height=230&section=header&text=Lokesh%20Jena&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Developer%20•%20React%20Native%20•%20APIs%20•%20UI/UX&descSize=18&descAlignY=58" width="100%" alt="Lokesh Jena banner" />
 
 <br/>
 
@@ -109,4 +105,4 @@ Have an idea, a project, or a bug that only appears in production? 😄
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0e75b6&height=120&section=footer" width="100%" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:059669&height=120&section=footer" width="100%" alt="Footer wave" />
