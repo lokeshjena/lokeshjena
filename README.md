@@ -1,109 +1,137 @@
-<h1 align="center">Hi 👋, I'm Lokesh Jena</h1>
+<!-- ═══════════════ HEADER BANNER ═══════════════ -->
+<div align="center">
 
-<h3 align="center">
-  Frontend Developer • React Native • APIs • UI/UX • Digital Marketing
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7c3aed&height=230&section=header&text=Lokesh%20Jena&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Developer%20•%20React%20Native%20•%20APIs%20•%20UI/UX&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Lokesh Jena banner" />
 
-<p align="center">
-  <i>404: Serious Developer Not Found 🚀</i>
-</p>
+<a href="https://github.com/lokeshjena">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=0E75B6&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Lokesh!;Building+fast%2C+clean+%26+responsive+UIs;React+%7C+Next.js+%7C+React+Native;404%3A+Serious+Developer+Not+Found+%F0%9F%9A%80" alt="Typing animation" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/lokeshjena">
-    <img src="https://komarev.com/ghpvc/?username=lokeshjena&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=lokeshjena&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/lokeshjena?style=for-the-badge&logo=github&color=7c3aed" alt="Followers" />
+
+<br/><br/>
+
+<a href="mailto:lokeshj1106@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/lokeshjena"><img src="https://img.shields.io/badge/GitHub-lokeshjena-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+</div>
+
+<br/>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🔭 Currently working on **DealStrike**
-- 🌱 Currently learning **Docker, SQL & Digital Marketing**
-- 💻 Building with **React, Next.js & React Native**
-- 🔌 Working with **APIs, backend integrations & databases**
-- 🎨 Interested in **UI/UX, web design & product experiences**
-- 📈 Exploring **Digital Marketing, SEO & online growth**
-- 💬 Ask me about **Code, Design, APIs & Digital Marketing**
-- 📫 Reach me at **lokeshj1106@gmail.com**
-- ⚡ Fun fact: **If it works on the first try, I get suspicious.**
+<table>
+<tr>
+<td width="58%" valign="top">
 
----
+I'm a **frontend developer** who loves turning ideas into smooth, good-looking products — from pixel-perfect interfaces to the APIs and databases that power them. I also dig into **digital marketing & SEO**, because great products deserve to be found.
 
-### 🛠️ Tech Stack
+| | |
+|---|---|
+| 🔭 **Working on** | **DealStrike** |
+| 🌱 **Learning** | Docker, SQL & Digital Marketing |
+| 💻 **Building with** | React, Next.js & React Native |
+| 🔌 **Working with** | APIs, backend integrations & databases |
+| 🎨 **Interested in** | UI/UX, web design & product experiences |
+| 📈 **Exploring** | SEO & online growth |
+| 💬 **Ask me about** | Code, Design, APIs & Digital Marketing |
+| 📫 **Reach me at** | lokeshj1106@gmail.com |
 
-<p align="left">
+</td>
+<td width="42%" valign="top" align="center">
 
-<a href="https://react.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" height="42" alt="React"/>
-</a>
+```js
+const lokesh = {
+  role: "Frontend Developer",
+  stack: ["React", "Next.js", "React Native"],
+  currently: "DealStrike",
+  learning: ["Docker", "SQL", "SEO"],
+  funFact: "If it works on the first try, I get suspicious ⚡",
+};
+```
 
-<a href="https://nextjs.org/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="42" height="42" alt="Next.js"/>
-</a>
-
-<a href="https://reactnative.dev/" target="_blank">
-<img src="https://reactnative.dev/img/header_logo.svg" width="42" height="42" alt="React Native"/>
-</a>
-
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42" height="42" alt="Node.js"/>
-</a>
-
-<a href="https://www.javascript.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42" alt="HTML5"/>
-</a>
-
-<a href="https://www.w3.org/Style/CSS/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42" alt="CSS3"/>
-</a>
-
-<a href="https://getbootstrap.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="42" height="42" alt="Bootstrap"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" height="42" alt="Tailwind CSS"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42" alt="MySQL"/>
-</a>
-
-<a href="https://www.php.net/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42" height="42" alt="PHP"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="42" height="42" alt="Docker"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="42" height="42" alt="Git"/>
-</a>
-
-<a href="https://www.figma.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="42" height="42" alt="Figma"/>
-</a>
-
-<a href="https://www.postman.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" height="42" alt="Postman"/>
-</a>
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-### 🚀 What I Like Building
+## 🛠️ Tech Stack
 
-```text
-🌐 Web Applications
-📱 Mobile Applications
-🎨 Clean & Responsive UI
-🔌 REST APIs & Integrations
-🗄️ Database-driven Applications
-📈 Digital Marketing & Growth
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,tailwind,bootstrap&theme=dark" alt="Frontend" />
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React Native" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,php,mysql&theme=dark" alt="Backend" />
+
+**Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman&theme=dark" alt="Tools" />
+
+</div>
+
+---
+
+## 🚀 What I Like Building
+
+<div align="center">
+
+| 🌐 Web Apps | 📱 Mobile Apps | 🎨 Clean UI |
+|:---:|:---:|:---:|
+| Fast, scalable, modern | Cross-platform with React Native | Responsive & accessible |
+
+| 🔌 REST APIs | 🗄️ Data-driven Apps | 📈 Growth |
+|:---:|:---:|:---:|
+| Integrations that just work | Databases done right | SEO & digital marketing |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lokeshjena&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshjena&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=lokeshjena&theme=tokyonight&hide_border=true" alt="Streak stats" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lokeshjena&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+Have an idea, a project, or a bug that only appears in production? 😄
+
+<a href="mailto:lokeshj1106@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-lokeshj1106%40gmail.com-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Say hello" /></a>
+
+<br/><br/>
+
+<i>⚡ "If it works on the first try, I get suspicious."</i>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0e75b6&height=120&section=footer" width="100%" alt="Footer wave" />
