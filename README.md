@@ -12,22 +12,11 @@
 <img src="https://komarev.com/ghpvc/?username=lokeshjena&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/lokeshjena?style=for-the-badge&logo=github&color=7c3aed" alt="Followers" />
 
-<br/><br/>
-
-<a href="mailto:lokeshj1106@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/lokeshjena"><img src="https://img.shields.io/badge/GitHub-lokeshjena-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
 </div>
-
-<br/>
 
 ---
 
 ## 👨‍💻 About Me
-
-<table>
-<tr>
-<td width="58%" valign="top">
 
 I'm a **frontend developer** who loves turning ideas into smooth, good-looking products — from pixel-perfect interfaces to the APIs and databases that power them. I also dig into **digital marketing & SEO**, because great products deserve to be found.
 
@@ -42,22 +31,12 @@ I'm a **frontend developer** who loves turning ideas into smooth, good-looking p
 | 💬 **Ask me about** | Code, Design, APIs & Digital Marketing |
 | 📫 **Reach me at** | lokeshj1106@gmail.com |
 
-</td>
-<td width="42%" valign="top" align="center">
+### 💡 My Approach
 
-```js
-const lokesh = {
-  role: "Frontend Developer",
-  stack: ["React", "Next.js", "React Native"],
-  currently: "DealStrike",
-  learning: ["Docker", "SQL", "SEO"],
-  funFact: "If it works on the first try, I get suspicious ⚡",
-};
-```
-
-</td>
-</tr>
-</table>
+- **Design meets code** — I care about how a product looks *and* how it works.
+- **Build, test, improve** — ship early, learn from real usage, and iterate.
+- **Always learning** — currently going deeper into Docker, SQL and SEO.
+- ⚡ **Fun fact:** If it works on the first try, I get suspicious.
 
 ---
 
@@ -111,10 +90,6 @@ const lokesh = {
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=lokeshjena&theme=tokyonight&hide_border=true" alt="Streak stats" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lokeshjena&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%" />
 
 </div>
 
