@@ -3,6 +3,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:0891b2&height=230&section=header&text=Lokesh%20Jena&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Developer%20•%20React%20Native%20•%20APIs%20•%20UI/UX&descSize=18&descAlignY=58" width="100%" alt="Lokesh Jena banner" />
 
+<h2>Hi 👋, I'm Lokesh!</h2>
+
+<h3>Building fast, clean &amp; responsive UIs</h3>
+
+<p><b>React &nbsp;|&nbsp; Next.js &nbsp;|&nbsp; React Native</b></p>
+
+<p><i>404: Serious Developer Not Found 🚀</i></p>
+
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=lokeshjena&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
@@ -99,7 +107,7 @@ Have an idea, a project, or a bug that only appears in production? 😄
 
 <a href="mailto:lokeshj1106@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-lokeshj1106%40gmail.com-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Say hello" /></a>
 
-<br/><br/>
+<br/>
 
 <i>⚡ "If it works on the first try, I get suspicious."</i>
 
